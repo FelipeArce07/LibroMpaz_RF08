@@ -12,6 +12,7 @@ Libro de clases digital para la Escuela Escritora Marcela Paz. Reemplaza el regi
 - Felipe Arce
 
 **Repositorio GitHub (privado):https://github.com/FelipeArce07/LibroMpaz_RF08.git
+**Trello (Gestión de tareas): https://trello.com/invite/b/6adaa6ef1809f1b8db88a444/ATTIea0e21a85eb83186f70d6153a4c7878e5EAD3757/proyecto2
 
 ## Tecnologías
 
